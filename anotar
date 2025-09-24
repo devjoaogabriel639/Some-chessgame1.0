@@ -1,0 +1,59 @@
+def casa_ocupada():
+    for outra in outras_pecas:
+        if outra != casa_mais_proxima:
+            print(f"Casa preta vazia")
+                self.posicao=casa_mais_proxima
+                # Se as outras peças estão fora da casa preta, casa preta esta vazia
+                return
+if casa_ocupada:
+    posicao_final = casa_mais_proxima
+
+     #1. Concertar o erro de 'unresolved reference na  function'
+
+     #2. adicionar a condicional 'if' dentro da classe
+
+
+         def destacar_selecao(self, janela, tile_size)
+        if self.selecionada:  # equivalente ao while _clicado()
+            # Criar um tile vermelho
+            vermelho = pyg.Surface((tile_size, tile_size))
+            vermelho.fill((128, 128, 128))
+
+            # Converter posição de grid (x,y) para pixel
+            px, py = self.posicao[0] * tile_size, self.posicao[1] * tile_size
+
+            # Desenhar o tile vermelho na janela
+            janela.blit(vermelho, (px, py))
+
+
+ def diagonal_ proxima(self):
+      self.posicao
+      for pos in movimentos_permitidos:
+          diferença = min(self.posicao, pos)
+          diagonal=diferença =+ self.posicao
+          janela.blit(vermelho, (diagonal))
+
+
+     def atualizar_eventos(self, eventos):
+        for event in eventos:
+            if event.type == pyg.MOUSEBUTTONDOWN:
+                if self._clicado(pyg.mouse.get_pos()):
+                    self.selecionada = True
+                    turno_iniciado(self)
+            elif event.type == pyg.MOUSEBUTTONUP:
+                self.selecionada = False
+
+      def turno(self, eventos, posições):
+          if self.selecionado and self.posição in posicoes_superior:
+              posicoes_inferior=False
+              break
+          elif self.selecionado and self.posição in posicoes_inferior:
+              posicoes_inferior=False
+              break
+
+
+#1.Usar UI button com medidas de cartas
+#2. adicionar logica de efeitos as cartas
+
+
+
