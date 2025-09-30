@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b86594b-17a1-4b70-b4be-96fb8b66243b" name="Changes" comment="Codigos completos">
+      <change afterPath="$PROJECT_DIR$/MAIN_code.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2xPj6sawb1tyNgp381v2L9yAzt5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Chess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Full_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Full_codetest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gamea_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mensagem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tabuleiro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cartas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chess_moves.executor&quot;: &quot;Run&quot;,
+    &quot;Python.codigo_descongelado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.config.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_codeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_codet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.marcadorUNIV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moves.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moves_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test3_fatiamento2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_fatiamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_loop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Cherry-picking in master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b86594b-17a1-4b70-b4be-96fb8b66243b" name="Changes" comment="" />
+      <created>1747846432308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747846432308</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Codigos completos">
+      <option name="closed" value="true" />
+      <created>1758750727591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758750727591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Codigos completos">
+      <option name="closed" value="true" />
+      <created>1758761513166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758761513166</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codigos completos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codigos completos" />
+  </component>
+</project>
