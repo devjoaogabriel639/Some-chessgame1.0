@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b86594b-17a1-4b70-b4be-96fb8b66243b" name="Changes" comment="Codigos completos">
-      <change afterPath="$PROJECT_DIR$/MAIN_code.py" afterDir="false" />
-    </list>
+    <list default="true" id="3b86594b-17a1-4b70-b4be-96fb8b66243b" name="Changes" comment="Codigos completos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,34 +29,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Chess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Full_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Full_codetest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Gamea_manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mensagem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuleiro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cartas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chess_moves.executor&quot;: &quot;Run&quot;,
-    &quot;Python.codigo_descongelado.executor&quot;: &quot;Run&quot;,
-    &quot;Python.config.executor&quot;: &quot;Run&quot;,
-    &quot;Python.full_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.full_codeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.full_codet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.marcadorUNIV.executor&quot;: &quot;Run&quot;,
-    &quot;Python.moves.test2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.moves_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test3_fatiamento2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste_fatiamento.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste_loop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Cherry-picking in master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Chess.executor": "Run",
+    "Python.Class.executor": "Run",
+    "Python.Full_code.executor": "Run",
+    "Python.Full_codetest.executor": "Run",
+    "Python.Gamea_manager.executor": "Run",
+    "Python.Mensagem.executor": "Run",
+    "Python.Tabuleiro.executor": "Run",
+    "Python.cartas.executor": "Run",
+    "Python.chess_moves.executor": "Run",
+    "Python.codigo_descongelado.executor": "Run",
+    "Python.config.executor": "Run",
+    "Python.full_code.executor": "Run",
+    "Python.full_codeTest.executor": "Run",
+    "Python.full_codet.executor": "Run",
+    "Python.marcadorUNIV.executor": "Run",
+    "Python.moves.test2.executor": "Run",
+    "Python.moves_test.executor": "Run",
+    "Python.test3_fatiamento2.executor": "Run",
+    "Python.teste_fatiamento.executor": "Run",
+    "Python.teste_loop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758761513166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Codigos completos">
+      <option name="closed" value="true" />
+      <created>1759260945411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759260945411</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Codigos completos">
+      <option name="closed" value="true" />
+      <created>1759261141841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759261141841</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
