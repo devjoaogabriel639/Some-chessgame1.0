@@ -1,6 +1,5 @@
 import pygame as pyg
-import numpy as np
-import pymsgbox
+import numpy  as np
 import pygame_gui
 from pygame_gui import UIManager
 from pygame_gui.elements import UIButton
@@ -160,22 +159,25 @@ running = True
 while running:
     time_delta = clock.tick(60) / 1000.0
     eventos = pyg.event.get()
-
     for event in eventos:
+        # Processa eventos do UI Manager primeiro
+        manager.process_events(event)
+
+        # Trata saída do jogo
         if event.type == pyg.QUIT:
             running = False
 
-        manager.process_events(event)
-
+        # Clique do mouse
         elif event.type == pyg.MOUSEBUTTONDOWN:
             if peca_selecionada is None:
                 for peca in pecas:
                     if peca._clicado(pyg.mouse.get_pos()):
                         if (jogador_atual == "superior" and peca.posicao in posicoes_superior) or \
-                           (jogador_atual == "inferior" and peca.posicao in posicoes_inferior):
+                                (jogador_atual == "inferior" and peca.posicao in posicoes_inferior):
                             peca.selecionada = True
                             peca_selecionada = peca
 
+        # Movimentação do mouse enquanto arrasta peça
         elif event.type == pyg.MOUSEMOTION and peca_selecionada:
             mouse_x, mouse_y = pyg.mouse.get_pos()
             grid_x = mouse_x // TILE_SIZE
@@ -183,6 +185,7 @@ while running:
             peca_selecionada.posicao = (grid_x, grid_y)
             peca_selecionada.corpo.topleft = (grid_x * TILE_SIZE, grid_y * TILE_SIZE)
 
+        # Soltar o mouse para "largar" a peça
         elif event.type == pyg.MOUSEBUTTONUP and peca_selecionada:
             peca_selecionada.selecionada = False
             peca_selecionada.checar_movimento(movimentos_permitidos)
